@@ -71,5 +71,12 @@ ul li a{
   body {
     background-color: lightblue;
   }
-  
+  .loginbtn , .signupbtn {
+    background-color: rgb(237, 79, 55);
+    color: rgb(13, 13, 13);
+    border: 1px solid #db5d4a;
+    border-radius: 6px;
+    padding: 6px 20px;
+    box-shadow: 0 0 5px rgba(121, 5, 5, 0.1);
+} 
 }
