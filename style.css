@@ -74,9 +74,15 @@ ul li a{
     padding: 15px 20px;
   }
 
+  .logo img{
+    width: 50px;
+    height: 10px;
+    object-fit: contain;
+}
+
   nav ul {
     flex-direction: column;
-    gap: 10px;
+    gap: 4px;
     padding-left: 0;
     width: 100%;
   }
@@ -89,8 +95,7 @@ ul li a{
     flex-direction: column;
   }
 
-  .left,
-  .right {
+  .left, .right {
     width: 100%;
     padding: 20px;
   }
