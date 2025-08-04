@@ -103,6 +103,8 @@ ul li a{
   }
 
   .buttons {
+    display: flex;
+    gap: 10px;
     align-self: flex-end;
     margin-top: 10px;
   }
